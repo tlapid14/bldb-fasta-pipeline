@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "BLDB FASTA Pipeline"
+message: "If you use this pipeline in your research, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Lapid
+    given-names: Tomer
+repository-code: https://github.com/tlapid14/bldb-fasta-pipeline
+url: https://github.com/tlapid14/bldb-fasta-pipeline
+abstract: >
+  A Python pipeline for scraping the Beta-Lactamase Database (BLDB),
+  retrieving protein sequences from NCBI, renaming FASTA headers using
+  enzyme names, and optionally splitting FASTA files for downstream
+  bioinformatics analysis.
+license: MIT

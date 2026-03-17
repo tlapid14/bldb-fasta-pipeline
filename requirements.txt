@@ -1,0 +1,4 @@
+biopython
+requests
+beautifulsoup4
+lxml
