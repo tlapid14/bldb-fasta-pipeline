@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data files
+*.fasta
+*.fa
+*.faa
+
+# Output data
+data/*
+output/*
+mapping/*.txt
+mapping/*.tsv
+
+# Keep folder structure
+!mapping/.gitkeep
+!data/.gitkeep
+!output/.gitkeep
